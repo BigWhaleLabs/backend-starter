@@ -1,9 +1,9 @@
 {
-  "name": "ketl-views-counter",
+  "name": "@big-whale-labs/backend-starter",
   "version": "1.0.0",
-  "description": "Ketl posts views counter",
+  "description": "Official Big Whale Labs backend starter",
   "main": "dist/server.js",
-  "repository": "https://github.com/BigWhaleLabs/ketl-views-counter",
+  "repository": "https://github.com/BigWhaleLabs/backend-starter",
   "license": "MIT",
   "prettier": "@big-whale-labs/prettier-config",
   "scripts": {
